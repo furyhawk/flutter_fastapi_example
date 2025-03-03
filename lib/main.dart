@@ -1,7 +1,7 @@
-import 'package:fastapi_example/search.dart';
-import 'package:fastapi_example/service.dart';
+import 'package:flutter_fastapi_example/search.dart';
+import 'package:flutter_fastapi_example/service.dart';
 import 'package:flutter/material.dart';
-import 'package:fastapi_example/Note.dart';
+import 'package:flutter_fastapi_example/note.dart';
 
 void main() {
   runApp(const MyApp());

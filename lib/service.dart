@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import 'package:fastapi_example/Note.dart';
+import 'package:flutter_fastapi_example/note.dart';
 
 class Services {
   static Future<List<Note>> fetchNotes() async {

@@ -1,7 +1,7 @@
-import 'package:fastapi_example/service.dart';
+import 'package:flutter_fastapi_example/service.dart';
 import 'package:flutter/material.dart';
 
-import 'Note.dart';
+import 'note.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);
